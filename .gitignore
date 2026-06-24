@@ -16,8 +16,6 @@ venv/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-data/*.csv
-data/*.json
 !data/.gitkeep
 
 .vscode/
